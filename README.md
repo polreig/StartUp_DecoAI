@@ -22,7 +22,7 @@ A continuación, mostramos algunos resultados obtenidos con nuestro motor establ
 
 | Habitación Original (Antes) | Resultado Remodelado (Después) |
 |---|---|
-| ![Antes](imagenes/IMG_20260318_110813.jpg) | ![Después](imagenes/WhatsApp Image 2026-03-25 at 10.52.50.jpeg) |
+| ![Antes](imagenes/IMG_20260318_110813.jpg) | ![Después](imagenes/despues1.jpeg) |
 | * Ejemplo de transformación de salón * | |
 
 ---
@@ -54,7 +54,7 @@ Estos cuadernos contienen las pruebas independientes de cada módulo:
 ### Ejemplo con Pincel Mágico
 | Habitación Original (Antes) | Resultado Remodelado (Después) |
 |---|---|
-| ![Antes](imagenes/IMG_20260318_110813.jpg) | ![Después](imagenes/WhatsApp Image 2026-03-25 at 10.52.51.jpeg) |
+| ![Antes](imagenes/IMG_20260318_110813.jpg) | ![Después](imagenes/despues2.jpeg) |
 | * Ejemplo de transformación de mesa del salón * | |
 ---
 
