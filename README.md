@@ -48,9 +48,14 @@ Estos cuadernos contienen las pruebas independientes de cada módulo:
 
 ### 🧪 Versión Experimental
 
-* **`DecoAI_2.0.ipynb`**: Este notebook añade una funcionalidad avanzada de **Inpainting (Pincel)**. Permite al usuario "pintar" con un pincel sobre la imagen original (ej: cambiar solo un sofá o una silla) y pedirle a la IA que cambie solo esa parte, manteniendo el resto de la habitación idéntico.
+* **`DecoAI_Pincel_Magico.ipynb`**: Este notebook añade una funcionalidad avanzada de **Inpainting (Pincel)**. Permite al usuario "pintar" con un pincel sobre la imagen original (ej: cambiar solo un sofá o una silla) y pedirle a la IA que cambie solo esa parte, manteniendo el resto de la habitación idéntico.
     * *Nota: Esta funcionalidad es experimental y los resultados, aunque funcionales, están en fase de mejora.*
 
+### Ejemplo con Pincel Mágico
+| Habitación Original (Antes) | Resultado Remodelado (Después) |
+|---|---|
+| ![Antes](imagenes/foto_antes2.jpg) | ![Después](imagenes/foto_despues2.jpg) |
+| * Ejemplo de transformación de mesa del salón * | |
 ---
 
 ## 👥 Autores
