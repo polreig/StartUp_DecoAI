@@ -23,7 +23,7 @@ A continuación, mostramos algunos resultados obtenidos con nuestro motor establ
 | Habitación Original (Antes) | Resultado Remodelado (Después) |
 |---|---|
 | ![Antes](imagenes/foto_antes1.jpg) | ![Después](imagenes/foto_despues1.jpg) |
-| *Comentario: Ejemplo de transformación de salón * | |
+| * Ejemplo de transformación de salón * | |
 
 ---
 
