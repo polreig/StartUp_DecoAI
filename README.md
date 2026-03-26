@@ -22,7 +22,7 @@ A continuación, mostramos algunos resultados obtenidos con nuestro motor establ
 
 | Habitación Original (Antes) | Resultado Remodelado (Después) |
 |---|---|
-| ![Antes](imagenes/foto_antes1.jpg) | ![Después](imagenes/foto_despues1.jpg) |
+| ![Antes](imagenes/antes1.jpeg) | ![Después](imagenes/despues1.jpeg) |
 | * Ejemplo de transformación de salón * | |
 
 ---
@@ -54,7 +54,7 @@ Estos cuadernos contienen las pruebas independientes de cada módulo:
 ### Ejemplo con Pincel Mágico
 | Habitación Original (Antes) | Resultado Remodelado (Después) |
 |---|---|
-| ![Antes](imagenes/foto_antes2.jpg) | ![Después](imagenes/foto_despues2.jpg) |
+| ![Antes](imagenes/antes1.jpeg) | ![Después](imagenes/despues2.jpeg) |
 | * Ejemplo de transformación de mesa del salón * | |
 ---
 
@@ -66,9 +66,3 @@ Proyecto realizado por parejas para Aprendizaje Profundo:
 * Pablo Carbonell Martínez (github.com/pacarma4)
 
 ---
-
-## DecoAI Y DecoAI_pro
-Fusiona el modo automático y el manual en pestañas de una misma web. Introduce la traducción silenciosa (el usuario escribe en español y la IA lo pasa a inglés para el render) y un algoritmo que ordena automáticamente la lista de la compra del producto más barato al más caro.
-
-## DecoAI_V2.0
-La evolución definitiva. Añade una tercera pestaña ("Mover Mueble") que permite al usuario dibujar una caja de origen y otra de destino para arrancar un mueble de su sitio, reconstruir la pared de fondo y colocar el mueble nuevo en otra parte de la habitación con perspectiva correcta.
